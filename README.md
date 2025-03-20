@@ -38,6 +38,7 @@ Let me know if you need any refinements!
 
 
 Out of Scope:
+
 ❌ Marketing Campaign Execution – We analyze data but do not implement marketing strategies.
 
 ❌ IT Infrastructure & Data Engineering – We work with existing data but do not handle database administration or system setup.
