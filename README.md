@@ -19,3 +19,20 @@ Let me know if you need any refinements!
 
 
 # scope of work
+Scope of Work
+In-Scope:
+✅ Data Collection & Cleaning – Gathering and preprocessing Superstore data for accurate analysis.
+✅ Sales Analysis – Identifying revenue trends, best-selling products, and seasonal patterns.
+✅ Customer Behavior Analysis – Understanding buying habits, customer segmentation, and retention strategies.
+✅ Profitability Assessment – Evaluating profit margins, cost structures, and opportunities for revenue growth.
+✅ Operational Efficiency – Analyzing supply chain, inventory management, and delivery performance.
+✅ Visualization & Reporting – Creating dashboards and reports to present insights effectively.
+✅ Predictive Analytics – Forecasting future sales trends using historical data and analytical models.
+
+Out of Scope:
+❌ Marketing Campaign Execution – We analyze data but do not implement marketing strategies.
+❌ IT Infrastructure & Data Engineering – We work with existing data but do not handle database administration or system setup.
+❌ Human Resource Management – Employee performance and HR analytics are not included in our scope.
+❌ Physical Store Operations – We focus on data-driven insights rather than direct store management or logistics execution.
+
+Let me know if you want to refine any points! 
