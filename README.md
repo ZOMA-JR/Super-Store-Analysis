@@ -1,5 +1,5 @@
 # Super-Store-Analysis
-![download](https://github.com/user-attachments/assets/ccbee50c-decf-4948-9447-1993ea991174)
+![{5DC9E831-AFDE-4806-8342-0B521E77FE57}](https://github.com/user-attachments/assets/783137c3-b677-4616-b40d-6ca998062539)
 
 
 ## Objective & Overview
