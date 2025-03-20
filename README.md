@@ -70,6 +70,7 @@ Timeline (Gantt Chart)
 
 
 📌 Milestones:
+
 1️⃣ Project Initiation & Data Understanding (Week 1) – Define objectives, collect data, and identify key metrics.
 
 
@@ -86,3 +87,15 @@ Timeline (Gantt Chart)
 
 
 6️⃣ Final Presentation & Handover (Week 9) – Deliver insights, reports, and interactive dashboards to stakeholders.
+
+📦 Deliverables:
+
+✔ Cleaned Dataset – Ready for analysis.
+
+✔ EDA Report – Key trends and insights.
+
+✔ Interactive Dashboards – Visualized data for decision-making.
+
+✔ Predictive Models – Sales and performance forecasts.
+
+✔ Final Report & Presentation – Business recommendations and findings.
