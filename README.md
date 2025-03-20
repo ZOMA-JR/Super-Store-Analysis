@@ -19,8 +19,8 @@ Let me know if you need any refinements!
 
 
 # scope of work
-Scope of Work
-## In-Scope:
+
+ In-Scope:
 
 ✅ Data Collection & Cleaning – Gathering and preprocessing Superstore data for accurate analysis.
 
@@ -37,7 +37,7 @@ Scope of Work
 ✅ Predictive Analytics – Forecasting future sales trends using historical data and analytical models.
 
 
-##Out of Scope:
+Out of Scope:
 ❌ Marketing Campaign Execution – We analyze data but do not implement marketing strategies.
 
 ❌ IT Infrastructure & Data Engineering – We work with existing data but do not handle database administration or system setup.
