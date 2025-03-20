@@ -1,5 +1,6 @@
 # Super-Store-Analysis
-![{961A1BB0-6021-409C-A3EF-64319E245E82}](https://github.com/user-attachments/assets/117d900f-47ff-46e4-9a3a-d1ab46c01ca3)
+![image](https://github.com/user-attachments/assets/2dd92037-75ae-417e-aa20-71c6c63c44c9)
+
 
 
 
