@@ -1,5 +1,6 @@
 # Super-Store-Analysis
 
+!(https://github.com/user-attachments/assets/528e5df6-d57f-4b9d-9a2a-13a6ff2ddb68)
 
 ## Objective & Overview
 The objective of this project is to analyze sales, customer behavior, and product performance in a retail superstore dataset. By leveraging Excel, SQL, Power BI, and Python, the analysis aims to uncover insights that can help optimize business strategies, improve profitability, and enhance customer satisfaction.
