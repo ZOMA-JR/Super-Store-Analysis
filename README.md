@@ -99,3 +99,29 @@ Timeline (Gantt Chart)
 ✔ Predictive Models – Sales and performance forecasts.
 
 ✔ Final Report & Presentation – Business recommendations and findings.
+
+
+Resource Allocation
+
+👥 Team Members & Roles:
+
+Data Analysts – Responsible for data collection, cleaning, and exploratory analysis.
+
+BI Specialist – Develops dashboards and visual reports using Power BI/Tableau.
+
+Data Scientist (if applicable) – Conducts predictive modeling and advanced analytics.
+
+
+Project Manager – Oversees timelines, milestones, and deliverables.
+
+Business Consultant – Translates data insights into actionable business strategies.
+
+🛠️ Tools & Technologies:
+
+Data Processing: SQL, Python (Pandas, NumPy)
+
+Visualization & Reporting: Power BI, Tableau
+
+Predictive Analytics: Machine Learning models (if needed)
+
+Project Management: Trello, Jira, or Notion for tracking tasks
