@@ -47,4 +47,8 @@ Out of Scope:
 
 ❌ Physical Store Operations – We focus on data-driven insights rather than direct store management or logistics execution.
 
-Let me know if you want to refine any points! 
+# Project Plan
+
+
+
+![{99FAD8B0-E92F-4933-866C-071EB9E5A653}](https://github.com/user-attachments/assets/27353453-0a31-4fc4-aeae-9c227d082f36) ![{418755DD-C1CF-4E15-A2AD-3A346BCDD77A}](https://github.com/user-attachments/assets/2f6b529a-1b5f-4c62-89b9-712d34e764b4)
